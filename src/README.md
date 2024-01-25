@@ -14,3 +14,4 @@ Para saber mais:
     - `git bisect good` aceitar resultado encontrado
     - `git bisect reset` voltar para HEAD e mediante commit encontrado anteriormente, é possível aplicá-lo com `git revert XXXXXXX`
 - `git show XXXXXXX` exibir modificações implementadas no commit
+- `git blame XXXXX.xpto` exibir lista detalhada de alterações no arquivo especificado
