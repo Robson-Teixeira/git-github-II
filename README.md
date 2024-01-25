@@ -1,2 +1,3 @@
-# git-github-II
-Repositório do curso Jornada do Conhecimento de DevOps (Nível Intermediário) - Git e Github: estratégias de ramificação, Conflitos e Pull Requests da plataforma Alura.
+# Jornada do Conhecimento de DevOps (Nível Intermediário) - Git e Github: estratégias de ramificação, Conflitos e Pull Requests
+
+Repositório do curso [**Jornada do Conhecimento de DevOps (Nível Intermediário) - Git e Github: estratégias de ramificação, Conflitos e Pull Requests**](https://cursos.alura.com.br/course/git-github-branching-conflitos-pull-requests) da plataforma [Alura](https://cursos.alura.com.br/).
