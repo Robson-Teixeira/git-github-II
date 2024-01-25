@@ -5,3 +5,4 @@ Para saber mais:
 - `git remote add nome_remoto <endereço/url>` para definir repositório remoto (local, rede e etc)
 - `git tag -a vX.X.X -m 'mensagem'` insere tag/marcação. Posteriormente realizar _push_ do _branch_ e _tag_
 - `git rebase -i HEAD~X` informando a quantidade de commits ou `git rebase -i XXXXXXXX` informando o commit anterior aos commits que deseja unir
+- `git cherry-pick XXXXXXX` traz o commit especificado de outro branch para o branch atual
