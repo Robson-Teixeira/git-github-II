@@ -20,3 +20,4 @@ Ferramentas:
 
 - [Git Cola](https://git-cola.github.io/downloads.html)
 - [GitHub Desktop - Windows ou macOS](https://desktop.github.com/) ou [GitHub Desktop - Linux](https://github.com/shiftkey/desktop)
+- [Git Kraken](https://www.gitkraken.com/download)
