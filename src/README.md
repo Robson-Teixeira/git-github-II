@@ -1,6 +1,5 @@
-Para saber mais:
+## Comandos:
 
-- [Git log cheatsheet](http://devhints.io/git-log)
 - `git init --bare` para inicializar um repositório puro (apenas com histórico de alterações dos arquivos)
 - `git remote add nome_remoto <endereço/url>` para definir repositório remoto (local, rede e etc)
 - `git tag -a vX.X.X -m 'mensagem'` insere tag/marcação. Posteriormente realizar _push_ do _branch_ e _tag_
@@ -16,8 +15,13 @@ Para saber mais:
 - `git show XXXXXXX` exibir modificações implementadas no commit
 - `git blame XXXXX.xpto` exibir lista detalhada de alterações no arquivo especificado
 
-Ferramentas:
+## Ferramentas:
 
 - [Git Cola](https://git-cola.github.io/downloads.html)
 - [GitHub Desktop - Windows ou macOS](https://desktop.github.com/) ou [GitHub Desktop - Linux](https://github.com/shiftkey/desktop)
 - [Git Kraken](https://www.gitkraken.com/download)
+
+## Para saber mais:
+
+- [Git log cheatsheet](http://devhints.io/git-log)
+- [Git Hooks](https://githooks.com/)
