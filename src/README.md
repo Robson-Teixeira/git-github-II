@@ -14,6 +14,7 @@
     - `git bisect reset` voltar para HEAD e mediante commit encontrado anteriormente, é possível aplicá-lo com `git revert XXXXXXX`
 - `git show XXXXXXX` exibir modificações implementadas no commit
 - `git blame XXXXX.xpto` exibir lista detalhada de alterações no arquivo especificado
+- `chmod u+x pre-commit` conceder permissão para execução do shell script em plataforma não Windows
 
 ## Ferramentas:
 
@@ -25,3 +26,8 @@
 
 - [Git log cheatsheet](http://devhints.io/git-log)
 - [Git Hooks](https://githooks.com/)
+- Exemplo hook **post-receive**:
+```
+#!/bin/sh
+git --git-dir={caminho_da_pasta_do_servidor} --work-tree={caminho_da_pasta_web} checkout -f
+```
